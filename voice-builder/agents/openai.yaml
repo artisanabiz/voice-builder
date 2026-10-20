@@ -1,0 +1,3 @@
+interface:
+  display_name: "Voice Builder"
+  short_description: "Learn an existing voice and export a Writer skill"

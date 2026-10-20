@@ -1,0 +1,69 @@
+Voice Builder Free Use License
+License version 1.0
+
+1. Scope
+
+This license applies to the Voice Builder instruction package, including its
+workflow, supporting instructions, documentation, and interface metadata
+(the "Builder"). "Licensor" means the rights holder making the Builder
+available under these terms. The permissions below apply to the extent
+the Licensor holds the relevant rights.
+
+2. Permitted use
+
+You may obtain the Builder from the Licensor or an authorized distributor,
+keep copies for your own use, install it in an AI environment you use,
+and use or modify it for personal, educational, business, and client work,
+without a license fee. These permissions include using the Builder to
+provide paid services and to create customized Writer skills for clients.
+
+You may make private modifications for use by you or within your
+organization. You may share a link to the Licensor's distribution page
+so that other people can obtain their own authorized copy.
+
+3. No redistribution or resale of the Builder
+
+You may not publish, redistribute, sublicense, sell, rent, or otherwise
+provide the Builder, or a modified or repackaged version of it, to third
+parties without separate written permission from the Licensor. This
+restriction applies to free as well as paid redistribution, including
+copies in repositories, downloadable archives, skill libraries,
+marketplaces, bundles, or white-label offerings.
+
+Providing a customized Writer created with the Builder is allowed under
+section 4. Providing the Builder itself to a client is not covered by
+the permission to perform client work. Moving your authorized copy into
+the AI environment needed for your permitted use is allowed; this does
+not authorize offering that copy as a product or download to others.
+
+Keep this license with copies of the Builder you retain or modify.
+Rights not expressly granted are reserved.
+
+4. Samples, generated Writers, and writing outputs
+
+These terms do not assert ownership of, or impose the redistribution and
+resale restriction above on, users' writing samples, voice profiles,
+customized Writer skills, or writing outputs created with the Builder.
+You may use, modify, share, or sell those customized results to the extent
+you otherwise have the necessary rights and permissions.
+
+This exception does not permit repackaging the generic Builder workflow
+as a "Writer" to bypass section 3. Other people's rights in source
+material, privacy obligations, and any applicable AI-provider terms
+continue to apply. This license does not grant rights to third-party
+writing or authorize disclosure of private material.
+
+5. Warranty and liability
+
+The Builder is provided "as is", without warranties of any kind, express
+or implied, including warranties of fitness for a particular purpose,
+accuracy, or noninfringement. AI-generated results may be inaccurate or
+unsuitable and require review. To the extent permitted by applicable law,
+the Licensor is not liable for claims, damages, or other liability arising
+from use of the Builder. Nothing in this section excludes rights or
+liabilities that cannot lawfully be excluded.
+
+6. License character
+
+This is a custom free-use license with restrictions on redistribution.
+It is not the MIT License and is not an OSI-approved open-source license.
